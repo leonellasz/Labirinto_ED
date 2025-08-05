@@ -170,10 +170,6 @@ Sinta-se livre para contribuir com melhorias:
 - Estatísticas de performance
 - Modo de comparação entre algoritmos
 
-## Licença
-
-Este projeto é de uso educacional e livre para modificação e distribuição.
-
 ## Conceitos Aprendidos
 
 Este projeto demonstra:
